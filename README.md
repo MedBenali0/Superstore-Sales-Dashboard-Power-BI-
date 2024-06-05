@@ -8,7 +8,10 @@ In essence, the project's goal is to conduct a thorough sales performance analys
 
 ## Dataset Overview
 To build this Superstore Sales Dashboard, I leveraged a comprehensive dataset containing historical sales data.
-<div style="text-align:center"><img src="images/dataset.png" /></div>
+<p align="center">
+    <img src="images/dataset.png" />
+</p>
+
 This dataset includes 9,994 entries and 21 columns, encompassing a range of details such as:
 - **Order Information**: Row ID, Order ID, Order Date, Ship Date, and Ship Mode
 - **Customer Details**: Customer ID, Customer Name, and Segment
@@ -17,7 +20,9 @@ This dataset includes 9,994 entries and 21 columns, encompassing a range of deta
 - **Sales Metrics**: Sales, Quantity, Discount, and Profit
 
 ## Sales Dashboard
-<div style="text-align:center"><img src="images/page1.png" /></div>
+<p align="center">
+    <img src="images/page1.png" />
+</p>
 
 ## Summary
 The Superstore Sales Dashboard in Power BI is an interactive tool that goes beyond a static report. It allows users to drill down into the data, apply filters, and explore insights in real-time.
